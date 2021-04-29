@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anitabee&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anitabee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **anitabee/anitabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
